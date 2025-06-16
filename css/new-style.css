@@ -48,7 +48,7 @@ html, body {
 
 h1, h2, h3 {
     margin-bottom: var(--spacing-sm);
-    font-weight: 700;
+    font-weight: 500;
     font-family: 'Fredoka', sans-serif;
 }
 
